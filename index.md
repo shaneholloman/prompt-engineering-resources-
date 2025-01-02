@@ -251,7 +251,6 @@ Each section is crafted to support your growth in prompt engineering, making it 
 ## 4.	Prompt Libraries, Collections & Datasets
 
 ## Prompt Libraries
-
 | **Library**                   | **Description** | **Link** |
 |-------------------------------|-----------------|----------|
 | **ai-boost/awesome-prompts**  | Curated list of ChatGPT prompts with top-rated GPTs. Includes prompt engineering, attack & protection techniques, and advanced papers. | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) |
@@ -415,4 +414,3 @@ Disclosure: I am compensated through these affiliate partnerships, and this comp
 If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via email at: zacfrull `[at]` hotmail `[dot]` com.
 
 Looking forward to hearing from you!
-
